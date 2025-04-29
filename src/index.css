@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-azure: #305aff;
+}
